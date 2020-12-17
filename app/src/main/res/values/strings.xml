@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Court Counter</string>
+	<string
+		name="app_setting"
+		textSize="24dp">Settings</string>
+	<string
+		name="app_license"
+		textSize="24dp">License</string>
+	<string name="team_a">Team A</string>
+	<string name="team_b">Team B</string>
+	<string name="plus3">+3 Points</string>
+	<string name="plus2">+2 Points</string>
+	<string name="plus1">Free Throw</string>
+	<string name="minus1">-1 Point</string>
+	<string name="reset">Reset</string>
+
+</resources>
